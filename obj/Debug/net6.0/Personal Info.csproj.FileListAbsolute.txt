@@ -1,0 +1,15 @@
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\Personal Info.csproj.AssemblyReference.cache
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\Personal Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\Personal Info.AssemblyInfoInputs.cache
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\Personal Info.AssemblyInfo.cs
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\Personal Info.csproj.CoreCompileInputs.cache
+C:\Users\Jenni\source\repos\Personal Info\bin\Debug\net6.0\Personal Info.exe
+C:\Users\Jenni\source\repos\Personal Info\bin\Debug\net6.0\Personal Info.deps.json
+C:\Users\Jenni\source\repos\Personal Info\bin\Debug\net6.0\Personal Info.runtimeconfig.json
+C:\Users\Jenni\source\repos\Personal Info\bin\Debug\net6.0\Personal Info.dll
+C:\Users\Jenni\source\repos\Personal Info\bin\Debug\net6.0\Personal Info.pdb
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\Personal Info.dll
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\refint\Personal Info.dll
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\Personal Info.pdb
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\Personal Info.genruntimeconfig.cache
+C:\Users\Jenni\source\repos\Personal Info\obj\Debug\net6.0\ref\Personal Info.dll
